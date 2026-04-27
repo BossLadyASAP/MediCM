@@ -1,0 +1,14 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.23
+python-dotenv==1.0.0
+PyJWT==2.8.1
+bcrypt==4.1.1
+requests==2.31.0
+Pillow==10.1.0
+reportlab==4.0.7
+pandas==2.1.3
+numpy==1.26.2
+python-dateutil==2.8.2
+gunicorn==21.2.0
